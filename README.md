@@ -1,4 +1,6 @@
 # autodungeon
+ Created in March-April of 2023 by Will Kibel
+ 
  A roguelike dungeon crawler autobattler (and a genetic algorithm to optimize your character's stats)
 
  The folder "AUTO DUNGEON" contains a playable version of the game.
