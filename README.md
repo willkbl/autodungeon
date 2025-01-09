@@ -9,3 +9,5 @@
  The two are not linked to each other, so changes from one do
  not automatically translate to the other. This means the GNA
  version will not update if development continues on the playable version, but it also means that more experimentation can be done on the playable version without risk of breaking the GNA version.
+
+ To use either, run "main.py"
